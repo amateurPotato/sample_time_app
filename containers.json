@@ -1,0 +1,8 @@
+{
+    "flask": {
+        "image": ":simple-time-service.simple-time.3",
+        "ports": {
+            "8080": "HTTP"
+        }
+    }
+}
