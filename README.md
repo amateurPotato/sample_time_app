@@ -33,4 +33,6 @@ aws lightsail create-container-service-deployment --service-name simple-time-ser
 ```
 
 ### Monitor the deployment
+```
 aws lightsail get-container-services --service-name simple-time-service
+```
